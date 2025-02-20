@@ -38,7 +38,7 @@ Basic usage with text watermark:
 
 Using an image as watermark:
     ```
-    python watermark-v0.1.py --input-dir "path/to/images" --logo-path "path/to/logo.png"
+    python watermark-v0.1.py --input-dir "path/to/images" --logo-path "path/to/your/watermark.png"
     ```
 
 ### Command Line Arguments
