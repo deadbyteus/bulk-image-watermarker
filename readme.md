@@ -32,12 +32,12 @@ A Python tool for adding watermarks to multiple images in bulk. Supports both im
 ## Usage
 
 Basic usage with text watermark:
-    ```bash
+    ```
     python watermark-v0.1.py --input-dir "path/to/images" --watermark-text "My Watermark"
     ```
 
 Using an image as watermark:
-    ```bash
+    ```
     python watermark-v0.1.py --input-dir "path/to/images" --logo-path "path/to/logo.png"
     ```
 
@@ -54,12 +54,12 @@ Using an image as watermark:
 ### Examples
 
 Add a text watermark in the bottom-right corner:
-    ```bash
+    ```
     python watermark-v0.1.py --input-dir "photos" --watermark-text "Copyright 2024" --position "bottom-right"
     ```
 
 Add a logo watermark with custom transparency:
-    ```bash
+    ```
     python watermark-v0.1.py --input-dir "photos" --logo-path "logo.png" --transparency 100
     ```
 
