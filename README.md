@@ -20,7 +20,7 @@ A Python tool for adding watermarks to multiple images in bulk. Supports both im
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bulk-image-watermarker.git
+    git clone https://github.com/deadbyteus/bulk-image-watermarker.git
     cd bulk-image-watermarker
     ```
 
